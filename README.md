@@ -310,6 +310,15 @@ Click here to view the [FAQs](https://github.com/OpenBMB/AgentCPM-GUI/blob/main/
 
 * Code in this repository is released under the [Apache-2.0](./LICENSE) license.
 
+## Explore More
+
+<a href="https://github.com/OpenBMB/MiniCPM" title="MiniCPM"><img src="https://github.com/OpenBMB/MiniCPM/blob/main/assets/minicpm_logo.png" height=40pt></a>&nbsp;&nbsp;
+<a href="https://github.com/OpenBMB/MiniCPM-V" title="MiniCPM-V/o"><img src="https://github.com/OpenBMB/MiniCPM-V/blob/main/assets/minicpmv.png" height=40pt></a>&nbsp;&nbsp;
+<a href="https://github.com/OpenBMB/ChatDev/" title="ChatDev"><img src="https://github.com/OpenBMB/ChatDev/blob/main/frontend/public/media/logo.png" height=40pt></a>&nbsp;&nbsp;
+<a href="https://github.com/OpenBMB/AgentVerse/" title="AgentVerse"><img src="https://github.com/OpenBMB/AgentVerse/blob/main/imgs/title.png" height=40pt></a>&nbsp;&nbsp;
+<a href="https://github.com/OpenBMB/AppCopilot" title="AppCopilot"><img src="https://github.com/OpenBMB/AppCopilot/blob/main/images/logo.png" height=40pt></a>&nbsp;&nbsp;
+<a href="https://github.com/OpenBMB/UltraRAG" title="UltraRAG"><img src="https://github.com/OpenBMB/UltraRAG/raw/main/docs/ultrarag.svg" height=40pt></a>&nbsp;&nbsp;
+
 ## Citation
 
 If **AgentCPM-GUI** is useful for your research, please cite:
