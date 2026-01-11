@@ -310,6 +310,15 @@ TM和EM分别代表**类型匹配（Type Match）**和**完全匹配（Exact Mat
 
 * 本仓库中代码依照 [Apache-2.0](./LICENSE) 协议开源。
 
+## 更多项目
+
+<a href="https://github.com/OpenBMB/MiniCPM" title="MiniCPM"><img src="https://github.com/OpenBMB/MiniCPM/blob/main/assets/minicpm_logo.png" height=40pt></a>&nbsp;&nbsp;
+<a href="https://github.com/OpenBMB/MiniCPM-V" title="MiniCPM-V/o"><img src="https://github.com/OpenBMB/MiniCPM-V/blob/main/assets/minicpmv.png" height=40pt></a>&nbsp;&nbsp;
+<a href="https://github.com/OpenBMB/ChatDev/" title="ChatDev"><img src="https://github.com/OpenBMB/ChatDev/blob/main/frontend/public/media/logo.png" height=40pt></a>&nbsp;&nbsp;
+<a href="https://github.com/OpenBMB/AgentVerse/" title="AgentVerse"><img src="https://github.com/OpenBMB/AgentVerse/blob/main/imgs/title.png" height=40pt></a>&nbsp;&nbsp;
+<a href="https://github.com/OpenBMB/AppCopilot" title="AppCopilot"><img src="https://github.com/OpenBMB/AppCopilot/blob/main/images/logo.png" height=40pt></a>&nbsp;&nbsp;
+<a href="https://github.com/OpenBMB/UltraRAG" title="UltraRAG"><img src="https://github.com/OpenBMB/UltraRAG/raw/main/docs/ultrarag.svg" height=40pt></a>&nbsp;&nbsp;
+
 ## 引用
 
 如果你认为该项目对你的研究有帮助，请考虑引用：
